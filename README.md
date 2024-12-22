@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<h1>Opa! 👋</h1>
+
+
+## My name is Lucas de Freitas
+( React JS | Typescript | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Systems development
+- 🎓 Bachelor's degree in Computer Science
+- 🔭 I’m currently working on Personal project
+- 🌱 I’m currently learning Javascript
 
 <!--
 **devdefreitas/devdefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
